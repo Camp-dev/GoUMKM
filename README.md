@@ -1,0 +1,2 @@
+# GoUMKM
+APLIKASI mobile UMKM
